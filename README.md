@@ -1,5 +1,6 @@
 # [Task Manager - Lepton Assessment]( https://lepton-assessment-gd5x.vercel.app/ )
 
+https://lepton-assessment-gd5x.vercel.app/
 A modern task management application built with Next.js and TypeScript, featuring a clean and intuitive user interface. This project was created as part of the Lepton assessment to demonstrate proficiency in modern web development practices.
 
 ## Features
