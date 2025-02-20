@@ -35,7 +35,7 @@ export const TaskForm = ({ onSubmit }: TaskFormProps) => {
     <motion.div
       initial={{ opacity: 0, y: -20 }}
       animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.2 }}
+      transition={{ duration: 0.1 }}
     >
       <Card>
         <form onSubmit={handleSubmit}>
